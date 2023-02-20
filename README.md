@@ -1,3 +1,4 @@
+## Archival Notice: This patch is now integrated into the [AromaBasePlugin](https://github.com/wiiu-env/AromaBasePlugin) which is part of Aroma by default.
 # UStealthPlugin
 [Aroma](https://aroma.foryour.cafe/) plugin which stops the Wii U menu from complaining about "PC formatted" drives.
 
